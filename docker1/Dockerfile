@@ -1,0 +1,1 @@
+From gcr.io/google_containers/pause-arm64:3.0
